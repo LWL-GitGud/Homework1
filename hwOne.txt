@@ -1,1 +1,3 @@
 Hello, my name is "Lorenzo Lejarde" and I am working on hw1
+
+Hello, our names are Lorenzo Lejarde and Ethan Pham and we are working on HW 4
